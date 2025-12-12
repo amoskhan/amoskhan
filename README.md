@@ -31,11 +31,11 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=amoskhan&show_icons=true&theme=dracula&count_private=true" alt="Amos' GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amoskhan&show_icons=true&theme=dracula&count_private=true" alt="Amos' GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoskhan&theme=dracula" alt="Amos' Streak" height="180"/>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amoskhan&show_icons=true&theme=dracula&layout=compact&langs_count=20" alt="Amos' Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=amoskhan&show_icons=true&theme=dracula&layout=compact&langs_count=20" alt="Amos' Top Languages" />
   <br>
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
