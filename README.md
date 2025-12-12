@@ -39,6 +39,6 @@
   <br>
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amoskhan&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Amos' Trophies"/>
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=amoskhan&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Amos' Trophies"/>
   </a>
 </div>
